@@ -1,0 +1,1 @@
+# cmd-comando-para-copiar-reposit-rio-do-github
