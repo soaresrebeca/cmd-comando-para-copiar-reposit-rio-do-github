@@ -1,0 +1,8 @@
+Microsoft Windows [versão 10.0.22631.4037]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\RES0120684\Documents\Projects>git clone https://github.com/profxx/gabarito-pokedex
+
+C:\Users\RES0120684\Documents\Projects>cd gabarito-pokedex
+
+C:\Users\RES0120684\Documents\Projects\gabarito-pokedex>code .
