@@ -1,1 +1,1 @@
-# cmd-comando-para-copiar-reposit-rio-do-github
+# cmd-comando-para-copiar-repositorio-do-github
